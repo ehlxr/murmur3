@@ -1,1 +1,6 @@
-`native-image -cp "target/classes:lib/*" io.github.ehlxr.murmur3.Murmur3Applicatio` built as a standalone executable
+built as a standalone executable
+* manual
+`target/classes:/Users/ehlxr/.m2/repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar`
+
+* maven
+* `mvn -Pnative package`
