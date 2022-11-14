@@ -1,0 +1,1 @@
+`native-image -cp "target/classes:lib/*" io.github.ehlxr.murmur3.Murmur3Applicatio` built as a standalone executable
