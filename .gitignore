@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/io.github.ehlxr.murmur3.murmur3application
+/io.github.ehlxr.murmur3.murmur3application.build_artifacts.txt

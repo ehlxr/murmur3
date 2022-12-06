@@ -85,12 +85,12 @@
                             <buildArgs>
                                 <arg>-H:DashboardDump=fortune -H:+DashboardAll</arg>
                             </buildArgs>
-                            <agent>
-                                <enabled>true</enabled>
-                                <options>
-                                    <option>experimental-class-loader-support</option>
-                                </options>
-                            </agent>
+                            <!--<agent>-->
+                            <!--    <enabled>true</enabled>-->
+                            <!--    <options>-->
+                            <!--        <option>experimental-class-loader-support</option>-->
+                            <!--    </options>-->
+                            <!--</agent>-->
                         </configuration>
                     </plugin>
                 </plugins>
